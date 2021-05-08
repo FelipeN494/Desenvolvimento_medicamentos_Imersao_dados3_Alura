@@ -30,8 +30,6 @@ Para fins desse notebook os termos droga, composto e medicamento serão usados d
 
 ## Referências:
 
-# **Referências**
-
 BRUCE, Peter; BRUCE, Andrew. *Estatística Prática para Cientista de Dados*. traduzido por Luciana Ferraz. Rio de Janeiro: Alta Books, 2019.
 
 FLEMING, Nic. How artificial intelligence is changing drug discovery. Nature, v. 557, n. 7706, p. S55-S55, 2018. Disponível em: <https://www.nature.com/articles/d41586-018-05267-x>. Acesso em: 06 Mai. 2021.
