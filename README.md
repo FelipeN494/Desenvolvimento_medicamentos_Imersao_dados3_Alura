@@ -1,7 +1,7 @@
 # Desenvolvimento_medicamentos_Imersao_dados3_Alura
 ![image](https://user-images.githubusercontent.com/60203850/116947930-649a5b80-ac54-11eb-9035-fe14a0c02b10.png)
 
-Fonte: https://pixabay.com/illustrations/dna-microscopic-cell-gene-helix-1903318/
+Autor: madartzgraphics. Fonte: https://pixabay.com/illustrations/dna-microscopic-cell-gene-helix-1903318/
 
 # **Projeto: Prevendo Mecanismos de Ação** 
 
