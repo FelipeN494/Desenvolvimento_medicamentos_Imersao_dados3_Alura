@@ -20,9 +20,8 @@ Trata-se de projeto de aprendizado de máquina do tipo supervisionado e de class
 ## **Métricas**
 
 Além de utilizarmos da métrica acurácia (total de acertos/total de previsões),em vista de manter coerência com o desafio postado no [Kaggle](https://www.kaggle.com/c/lish-moa/overview/evaluation), a avaliação do modelo se dará *também* pela métrica da 
-perda em log (log loss) também conhecida como entropia binária cruzada (binary cross entopry); nosso objetivo é minimizar o valor do log:
+perda em log (log loss) também conhecida como entropia binária cruzada (binary cross entopry); nosso objetivo é minimizar o valor do log.
 
-$ \text{pontuação} = - \frac{1}{M}\sum_{m=1}^{M} \frac{1}{N} \sum_{i=1}^{N} \left[ y_{i,m} \log(\hat{y}_{i,m}) + (1 - y_{i,m}) \log(1 - \hat{y}_{i,m})\right] $
 
 ## **Terminologia**
 
