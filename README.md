@@ -43,6 +43,8 @@ WOUTERS, Olivier J.; MCKEE, Martin; LUYTEN, Jeroen. Estimated research and devel
 
 # Descrição das pastas
 
+A pasta de dados e a descrição do desafio foram fornecidas pela Alura. Todo o resto desse repositório são de minha criação.
+
 ## Dados
 Nesta pasta estão localizadas as bases de dados oferecidas pela Aluar para o projeto.
 
