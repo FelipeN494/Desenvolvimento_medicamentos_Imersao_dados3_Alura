@@ -45,7 +45,7 @@ Para fins desse notebook os termos droga, composto e medicamento serão usados d
 
 ## Resultados e limitações
 
-O modelo conseguiu obter pontuações de acurácia próximo a 15% acima do modelo padrão ("burro") além de diminuir a perda em log em aproximadamente 10%. Todavia, isso não necessariamente significa que ele deva ser empregado para fins práticos (isso demanda avaliação do pesquisador ou outro interessado). Por limitações de tempo (o desafio precisava ser entregue em 09 de Maio de 2021), não foi possível se explorar modelos mais complexos (Rede Neural, por exemplo) ou outras formas de diminuir a complexidade dos dados que não o PCA. Por isso recomenda-se que essas atividades sejam realizadas em pesquisas futuras.
+O modelo conseguiu obter pontuações de acurácia próximo a 15% acima do modelo padrão ("burro") além de diminuir a perda em log em aproximadamente 10%. Todavia, isso não necessariamente significa que ele deva ser empregado para fins práticos (isso demanda avaliação do pesquisador ou outro interessado). Por limitações de tempo (o desafio precisava ser entregue em 09 de Maio de 2021), não foi possível se explorar modelos mais complexos (Rede Neural, por exemplo) ou outras formas de diminuir a complexidade dos dados que não o PCA. Por isso recomenda-se que essas atividades sejam realizadas em pesquisas futuras. Além disso, outra limitação é que não foi possível tratar a tempo o desbalanceamento dos dados de saída; isso deve ser feito em pesquisaas futuras com o objetivo de aumentar a precisão do aprendizado de máquina.
 
 ## **Referências**
 
