@@ -77,6 +77,9 @@ Nesta pasta está a descrição do desafio final do projeto de imersão de dados
 
 Essa pasta contém a pesquisa dos melhores hiperparâmetros utilizando GridSeatch() e a validação cruzada dos modelos KNN, Árvore Extra e também o Modelo Burro ("Dummy").
 
+## Resultados
+Essa pasta contém o notebook com o projeto completo.
+
 # Especificações técnicas
 
 Os notebooks foram criados e rodados em um computar com processador Intel(R) Core(TM) i5-8400 CPU @ 2.80 GHz; com 8 GB de memória instalada; sistema operacional 64 bits. O notebook principal foi rodado no google colaboratory (Colab) e os de treinamento e validação dos modelos no Jupyter (Anaconda) v. 6.3.0.
