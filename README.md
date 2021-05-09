@@ -5,6 +5,11 @@ Autor: madartzgraphics. Fonte: https://pixabay.com/illustrations/dna-microscopic
 
 # **Projeto: Prevendo Mecanismos de Ação** 
 
+## Data de Início e Entrega
+
+As aulas da terceira imersão de dados Alura foram entre 03 e 07 de Maio de 2021.
+O documento foi escrito entre 06 e 09 de Maio de 2021, com data limite de entrega em  09 de Maio de 2021.
+
 ##  **Desenvolvimento de medicamentos, IA e aprendizado de máquinas**
 
 A geração de medicamentos novos é um processo complexo e custoso, mas de grande valor social. Complexo porque existem diversas etapas da descoberta e análise do gene, escolha e teste de potenciais drogas, a testagem de múltiplas drogas em animais, depois testagem em voluntários humanos (saudáveis, depois doentes) seguida de testagem em uma população massiva e enfim ser aprovada pela agência pública de saúde responsável (ROWE,2020). Apesar dos custos médios do desenvolvimento de drogas ser controversos, pode-se dizer que eles atingem centenas de milhões de dólares (WOUTERS et. al., 2020). Ainda assim, o a geração de drogas novas é fundamental para os avanços da medicina e consequente melhorias na qualidade de vida humana.
@@ -38,9 +43,9 @@ perda em log (log loss) também conhecida como entropia binária cruzada (binary
 
 Para fins desse notebook os termos droga, composto e medicamento serão usados de maneira intercambiável. Todavia, destaca-se que eles, por claro, não se confundem. Na medida em que o composto é o elemento que causa reações no organismo, enquanto que a droga ou medicamento é a unidade que contém o composto e permite seu uso direto.
 
-## Resultados
+## Resultados e limitações
 
-O modelo conseguiu obter pontuações de acurácia próximo a 15% acima do modelo padrão ("burro") além de diminuir a perda em log em aproximadamente 10%. Todavia, isso não necessariamente significa que ele deva ser empregado para fins práticos (isso demanda avaliação do pesquisador ou outro interessado). Por limitações de tempo, não foi possível se explorar modelos mais complexos (Rede Neural, por exemplo) ou outras formas de diminuir a complexidade dos dados que não o PCA. Por isso recomenda-se que essas atividades sejam realizadas em pesquisas futuras.
+O modelo conseguiu obter pontuações de acurácia próximo a 15% acima do modelo padrão ("burro") além de diminuir a perda em log em aproximadamente 10%. Todavia, isso não necessariamente significa que ele deva ser empregado para fins práticos (isso demanda avaliação do pesquisador ou outro interessado). Por limitações de tempo (o desafio precisava ser entregue em 09 de Maio de 2021), não foi possível se explorar modelos mais complexos (Rede Neural, por exemplo) ou outras formas de diminuir a complexidade dos dados que não o PCA. Por isso recomenda-se que essas atividades sejam realizadas em pesquisas futuras.
 
 ## **Referências**
 
